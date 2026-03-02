@@ -1,5 +1,3 @@
-# FPAS-documents
-
 graph TD
     subgraph S1 [Step 1: Data Gathering]
         A1[<b>Database Update</b><br/>Data Unit - XML DB]
